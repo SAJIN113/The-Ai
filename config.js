@@ -9,10 +9,10 @@ global.port= process.env.PORT || 5000
 global.email = 'sam@secktor.live'
 global.github = 'https://github.com/SamPandey001/Secktor-Md'
 global.location = 'Sultanpur IN'
-global.gurl = 'https://instagram.com/' // @_babey_heart_
+global.gurl = 'https://instagram.com/'/@_babey_heart_
 global.sudo = process.env.SUDO || '919628516236'
 global.devs = '919628516236';
-global.website = 'https://github.com/SamPandey001/Secktor-Md' //wa.me/+8801973923838
+global.website = 'https://github.com/SamPandey001/Secktor-Md'/wa.me/+8801973923838
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png'
 module.exports = {
   botname:   process.env.BOT_NAME === undefined ? 'Alif' : process.env.Alif,
